@@ -4,6 +4,8 @@
 ## Beauty Counter
 Topics and information pertinent to the systems and processes at Beauty Counter.
 
+- [Notes for Jamal's absence](pages/BeautyCounter/PrepForJamalAbsence.md)
+
 ## .NET Core
 Technical information related to .NET Core.
 
