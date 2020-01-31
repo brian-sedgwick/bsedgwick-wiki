@@ -25,3 +25,6 @@ Usually just work off of master.
 
 Caching used to just load all the data into memory.
 CommissionsService.cs -> SearchCalculations is an example of the new caching scheme.
+
+ec2-3-89-248-35.compute-1.amazonaws.com or comm-api-stg - Staging Commissions API Server
+ec2-54-242-235-230.compute-1.amazonaws.com or comm-api-prd-1 - Production Commissions API 
