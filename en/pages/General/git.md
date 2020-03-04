@@ -77,3 +77,9 @@ https://git-scm.com/book/en/v2/Git-Basics-Tagging
 | Command | Explanation |
 | --- | --- |
 | `$ git branch --contains <commit>` | This will list all branches where the given commit has been merged. |
+
+
+## Switch origin URL
+| Command | Explanation |
+| --- | --- |
+| `$ git remote set-url origin <new url>` | Use this to switch from HTTPS to SSH urls or visa versa. |
